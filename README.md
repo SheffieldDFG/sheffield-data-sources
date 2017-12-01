@@ -6,7 +6,12 @@ I found "neighbourhoods" on data.sheffield.gov.uk https://data.sheffield.gov.uk/
 
 Deprivation Indices https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
 
+# Boundaries and so on
+
 Outlines for LSOA and other geographies from Census https://borders.ukdataservice.ac.uk//easy_download.html
+
+MySociety's mapit project has boundaries for Sheffield and its various subdivisions. https://mapit.mysociety.org/area/2537.html
+Generally in WKT, KML, and GeoJSON formats.
 
 
 ## A note about coordinates
