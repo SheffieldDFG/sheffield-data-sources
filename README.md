@@ -26,5 +26,9 @@ Sheffield is entirely within Great Britain,
 meaning that we do not have to deal with the added complication of using the Irish Grid system
 that is shared by Ireland and Northern Ireland.
 
+Sheffield lies between 413km and 446km east of the false origin, and between 378km and 401km north.
+Thus generally eastings and northings for points in Sheffield will look like
+4XXxxx for an easting and 3XXxxx for a northing.
+
 Most web and other mapping systems use a latitude and longitude system based on [WGS84 (World Geodetic System 1984)](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84) shared with GPS.
 This requires conversion.
