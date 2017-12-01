@@ -6,7 +6,7 @@ I found "neighbourhoods" on data.sheffield.gov.uk https://data.sheffield.gov.uk/
 
 Deprivation Indices https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
 
-Outlines for LSOA and other geographies from Census https://borders.ukdataservice.ac.uk//easy_download_data.html?data=England_wa_2011
+Outlines for LSOA and other geographies from Census https://borders.ukdataservice.ac.uk//easy_download.html
 
 
 
