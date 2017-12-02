@@ -13,6 +13,11 @@ Outlines for LSOA and other geographies from Census https://borders.ukdataservic
 MySociety's mapit project has boundaries for Sheffield and its various subdivisions. https://mapit.mysociety.org/area/2537.html
 Generally in WKT, KML, and GeoJSON formats.
 
+A nice person on the internet has made lots of the boundaries available in other formats.
+Here are the LSOA for each Local Authority Districts in England: https://github.com/martinjc/UK-GeoJSON/tree/master/json/statistical/eng/lsoa_by_lad
+
+Sheffield has GSS code `E08000019`.
+
 
 ## A note about coordinates
 
