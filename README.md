@@ -6,6 +6,9 @@ I found "neighbourhoods" on data.sheffield.gov.uk https://data.sheffield.gov.uk/
 
 Deprivation Indices https://www.gov.uk/government/statistics/english-indices-of-deprivation-2015
 
+Postcodes (for all UK) http://geoportal.statistics.gov.uk/datasets/ons-postcode-directory-latest-centroids
+User manual is here: http://geoportal.statistics.gov.uk/datasets?q=ONSPD%20User%20Guide%20(November%202017)&sort=name
+
 # Boundaries and so on
 
 Outlines for LSOA and other geographies from Census https://borders.ukdataservice.ac.uk//easy_download.html
