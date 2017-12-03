@@ -23,6 +23,14 @@ Here are the LSOA for each Local Authority Districts in England: https://github.
 
 Sheffield has GSS code `E08000019`.
 
+Geoportal has [boundaries all the Local Authority Districts (LAD) in the UK](http://geoportal.statistics.gov.uk/datasets/local-authority-districts-december-2016-full-clipped-boundaries-in-the-uk-wgs84).
+Using this data, we can compute a latitude/longitude based bounding box for Sheffield:
+
+Longitude: -1.802 to -1.324
+
+Latitude: 53.304 to 53.504
+
+(expanding the box to round the figures to 3 decimal places)
 
 ## A note about coordinates
 
