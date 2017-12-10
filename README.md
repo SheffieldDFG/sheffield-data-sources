@@ -50,3 +50,5 @@ Thus generally eastings and northings for points in Sheffield will look like
 
 Most web and other mapping systems use a latitude and longitude system based on [WGS84 (World Geodetic System 1984)](https://en.wikipedia.org/wiki/World_Geodetic_System#WGS84) shared with GPS.
 This requires conversion.
+
+I wrote [a brief article](http://drj11.github.io/2017-12-09/pyproj.html) on how to use [pyproj](https://github.com/jswhit/pyproj) to convert a bunch of coordinates.
